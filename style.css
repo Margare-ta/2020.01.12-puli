@@ -14,3 +14,26 @@ body{
 .jobbra{
     margin-left: 500px;
 }
+
+.sarga{
+    height: 200px;
+    width: max-content;
+    background-color: rgb(249, 253, 7);
+  }
+
+.pulik{
+    margin-bottom: 2100px;
+}
+
+a, a:visited {
+    color: rgb(94, 94, 77);
+    text-decoration: none;
+}
+
+.kistabla{
+    width: 700px;
+}
+
+.kistablamasodik{
+    margin-left: 200px;
+}
