@@ -1,0 +1,16 @@
+.table{
+    margin-right: 300px;
+    margin-left: 300px;
+      }
+
+.oszlop1{
+    width: 80px;
+}
+
+body{
+    background-color: rgb(106, 241, 140);
+}
+
+.jobbra{
+    margin-left: 500px;
+}
