@@ -18,7 +18,7 @@ body{
 .sarga{
     height: 200px;
     width: max-content;
-    background-color: rgb(249, 253, 7);
+    background-color: rgb(255, 255, 0);
   }
 
 .pulik{
@@ -37,3 +37,34 @@ a, a:visited {
 .kistablamasodik{
     margin-left: 200px;
 }
+
+#tortenete, #meretei, #rokonfajtak, #kulleme, #szinei, #jelleme, #hires{
+    color: rgb(255, 255, 0);
+}
+
+p{
+    text-align: justify;
+}
+
+hr{
+    color: rgb(255, 255, 0);
+    border: "2px";
+}
+
+.jobbkep{
+    width: 70px;
+    float: right;
+    padding: 5px 0px 20px 5px;
+}
+
+.kozepre{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.kep{
+    width: 400px;
+}
+
